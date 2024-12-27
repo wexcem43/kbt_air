@@ -1,0 +1,17 @@
+{
+  "name": "AquaTemp",
+  "about": " ",
+  "version": "1.0",
+  "notes": " ",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/wexcem43/kbt_air/main/bin/po.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
