@@ -1,8 +1,8 @@
 {
   "name": "kbt_air",
   "about": " ",
-  "version": "1.65",
-  "notes": " ",
+  "version": "1.66",
+  "notes": " золупа ",
   "builds": [
     {
       "chipFamily": "ESP32",
