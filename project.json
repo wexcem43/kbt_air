@@ -2,7 +2,7 @@
   "name": "kbt_air",
   "about": " ",
   "version": "2.0",
-  "notes": " ",
+  "notes": "Тест обновления через приложение",
   "builds": [
     {
       "chipFamily": "ESP32",
