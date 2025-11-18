@@ -1,7 +1,7 @@
 {
   "name": "kbt_air",
   "about": " ",
-  "version": "3.1",
+  "version": "3.2",
   "notes": "1) Исправлена ошибка обновления",
   "builds": [
     {
